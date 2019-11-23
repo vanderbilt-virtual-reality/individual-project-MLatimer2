@@ -1,18 +1,22 @@
 # individual-project-MLatimer2
 individual-project-MLatimer2 created by GitHub Classroom
-Bar Simulator README
-Playing Bar Simulator
-Goal: Make a Martini
-	-Add an ice cube to your glass and pour your drink from the cocktail shaker.
-Tips & Tricks :
-	-Be careful about maneuvering around the area
-	-If you move too fast, you can spill all of your drink and knock over things on the countertop
-	-Covering the cocktail shaker with the lid may help in preventing unnecessary spillage.
-Bugs:
--I’ve noticed that maneuvering to grab ice cubes for your drink can result in loss of grabbing and moving controls.
+**Bar Simulator README**
+**Playing Bar Simulator
+
+*Goal: Make a Martini*
+
+	- Add an ice cube to your glass and pour your drink from the cocktail shaker.
+*Tips & Tricks :*
+
+	- Be careful about maneuvering around the area
+	- If you move too fast, you can spill all of your drink and knock over things on the countertop
+	- Covering the cocktail shaker with the lid may help in preventing unnecessary spillage.
+*Bugs:*
+
+	- I’ve noticed that maneuvering to grab ice cubes for your drink can result in loss of grabbing and moving controls.
 	
-Discussion of Game
-Inspiration:
+**Discussion of Game**
+*Inspiration:*
 The project that I decided to make was a bartending simulation where you can create a shaken martini. 
 When I was thinking about projects to make, I thought about problems in my life that could potentially 
 be solved by virtual reality. One of the problems I’ve run into recently is experimenting with food. 
@@ -30,7 +34,7 @@ mixing the ingredients wouldn’t create something with a new shape and texture 
 simulate complicated interactions between the ingredients. In mixology, the main focus is memorization 
 of recipes and creating the create ratio of ingredients, and with the ingredients mostly being liquid, 
 its much easier to simulate the creation of the different drinks (changing color, volumes, glasses, etc.).
-VR as a solution:
+*VR as a solution:*
 I think VR would be an adequate way to address this even noting it’s drawbacks. Very obviously, being able
 to smell and taste your food is a crucial part of cooking, and the lack of these senses is a significant 
 drawback to using virtual reality for this project (at least with current VR technology). Along with this, 
