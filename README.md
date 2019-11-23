@@ -1,7 +1,6 @@
-# individual-project-MLatimer2
-individual-project-MLatimer2 created by GitHub Classroom
-**Bar Simulator README**
-**Playing Bar Simulator
+
+# Bar Simulator README
+**Playing Bar Simulator**
 
 *Goal: Make a Martini*
 
