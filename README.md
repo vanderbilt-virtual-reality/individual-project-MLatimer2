@@ -16,7 +16,9 @@ individual-project-MLatimer2 created by GitHub Classroom
 	- I’ve noticed that maneuvering to grab ice cubes for your drink can result in loss of grabbing and moving controls.
 	
 **Discussion of Game**
+
 *Inspiration:*
+
 The project that I decided to make was a bartending simulation where you can create a shaken martini. 
 When I was thinking about projects to make, I thought about problems in my life that could potentially 
 be solved by virtual reality. One of the problems I’ve run into recently is experimenting with food. 
@@ -34,7 +36,9 @@ mixing the ingredients wouldn’t create something with a new shape and texture 
 simulate complicated interactions between the ingredients. In mixology, the main focus is memorization 
 of recipes and creating the create ratio of ingredients, and with the ingredients mostly being liquid, 
 its much easier to simulate the creation of the different drinks (changing color, volumes, glasses, etc.).
+
 *VR as a solution:*
+
 I think VR would be an adequate way to address this even noting it’s drawbacks. Very obviously, being able
 to smell and taste your food is a crucial part of cooking, and the lack of these senses is a significant 
 drawback to using virtual reality for this project (at least with current VR technology). Along with this, 
@@ -54,4 +58,5 @@ that can aid people in being more environmentally conscious are in high demand. 
 to virtually simulate making different recipes and practice these techniques without having to use and 
 potentially waste a lot of food is a great example of this, and I think its benefits outweigh the fundamental
 issue of lack of senses.
+
 Although not a fundamental issue with using virtual reality for this solution, the ability of technology to simulate real life could also be an issue. What seems to be a simple task can turn into a very difficult one in VR, and to create a realistic game requires a lot of time and testing. This project is most definitely an example of this, especially with the addition of ‘realistic’ liquid into the simulation. There are a lot of complicated physics and calculation that go into creating realistic water in the game, and this created a lot of issues for my game. The particular solution I used for the liquid involved simulating individual particles that made up the ‘body’ of the liquid, and around 8000 particles were being used. Each particle had it own calculations of how it needs to interact with environment, which is a lot of calculations to be made in real time. While the solution looked pretty realistic while looking into the shaker, and the physics of it being poured into the martini glass was very nice, the particles creating the liquid could be very finnicky. Slight movements could cause the particles to explode out of the cup, which is an issue, but you could argue that it happens in real life as well. In general, it is hard to get VR to simulate life how you are used to interacting with it, and for my project it got to be very complicated.
